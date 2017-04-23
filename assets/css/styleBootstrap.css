@@ -1,0 +1,64 @@
+body{
+  font-family: Arial, Helvetica;
+  background-image: url(../images/Seamless.png);
+}
+
+#container{
+	width: 960px;
+}
+
+/*NavBar*/
+.navbar-header{
+  font-color: white;
+}
+
+.navbar-brand{
+  font-size: 22px;
+    background: #4aaaa5;
+    width: 180px;
+    text-align: center;
+    padding: 20px;
+    margin-left: 100px;S
+    position: relative;
+    
+}
+
+#logo {
+  height: 60px;
+  margin-left: 70px;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  background: #4aaaa5;
+  font-size: 24px;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  color: white;
+}
+
+/*NavBar end*/
+
+/*Content*/
+
+.container{
+  background: #ffffff;
+}
+
+.page-header{
+  color: #4aaaa5;
+}
+
+.port-header{
+   color: #4aaaa5;
+}
+
+ .contact-form-header{
+    color: #4aaaa5;
+ }
+
+/*Connect With Me CSS*/
+
+h3.panel-title{
+  color: #4aaaa5;
+  font: 18px;
+  font-weight: bold;
+}
